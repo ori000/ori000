@@ -2,7 +2,6 @@
 <h3 align="center">A passionate software engineer and a researcher in computer networks, cybersecurity, and AI.</h3>
 
 - 📫 How to reach me **ori00@mail.aub.edu**
-- 
 <p align="left">
 </p>
 
